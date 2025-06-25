@@ -8,6 +8,10 @@ technology
 
 ## CIA Triad
 ### DAD Triad
-1. confidencialility 
+1. confidentiality 
 2. integrity
 3. availability
+
+
+See below a report
+{cybersecurity} (legendary-aws-networks-peering.pdf) 
