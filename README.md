@@ -2,6 +2,11 @@
 introduction to cybersecurity 
 
 ## principles of cybersecurity
-peopel
+people
 proccess
 technology
+
+## CIA Triad
+1. confidencialility 
+2. integrity
+3. availability
