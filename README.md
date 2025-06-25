@@ -14,4 +14,5 @@ technology
 
 
 See below a report
-{cybersecurity} (legendary-aws-networks-peering.pdf) 
+{cybersecurity} (https://github.com/osehale/Inductrion-to-cybersecurity/blob/main/legendary-aws-networks-peering.pdf)
+
