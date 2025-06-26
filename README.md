@@ -16,3 +16,5 @@ technology
 See below a report
 [cybersecurity report](https://github.com/osehale/Inductrion-to-cybersecurity/blob/main/legendary-aws-networks-peering.pdf)
 
+[see below network report](https://github.com/osehale/Introductrion-to-cybersecurity/blob/main/packet-tracer-logical-and-physical-mode-exploration.pksz)
+
